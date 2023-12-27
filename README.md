@@ -3,7 +3,7 @@
 - Beeswax.
 - Propolis.
 - Pollen.
-- Royal jelly( bee milk )
+- Royal jelly (bee milk)
 - Bee venom.
 
 ### Honey
@@ -50,7 +50,7 @@ A great natural source of nutrients including proteins, amino acids, carbohydrat
     1. against alcoholism.
     2. against asthma.
     3. health maintenance.
-    4. premenstrual syndrome( PMS ).
+    4. premenstrual syndrome (PMS).
     5. enlarged prostate.
     6. stomach problems.
 
