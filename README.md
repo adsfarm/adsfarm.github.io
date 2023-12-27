@@ -7,10 +7,10 @@
 - Bee venom.
 
 ### Honey
-Viscons sweet substance bee product.
+Viscous sweet substance bee product.
 ##### uses
 - Sweeten food or drinks instead of sugar.
-- Soothe sore throat and cough( medicinal ).
+- Soothes sore throat and cough (medicinal).
 - Heals wounds.
 - Good source of antioxidants.
 - Raw honey nutrition.
@@ -19,7 +19,7 @@ Viscons sweet substance bee product.
 - Home remedy for dandruff.
 - Natural sleeping aid.
 - Eases sinus issues.
-- Helps gum clisease.
+- Helps gum disease.
 - Prevents and helps control eczema.
 - Natural energy drink.
 
@@ -34,13 +34,13 @@ Used to build honeycombs for storage of honey and protection of larvae.
 - Skin care and natural cosmetic products.
 - Also several industrial uses such as making of varnished dissection trays.
 
-Price: About ksh. 80 per kg.
+Price: About ksh. 800 per kg.
 
 ### Propolis
-Is a bee glue used as a sewant for unwanted open spaces in the beehive.
+Is a bee glue used as a sealant for unwanted open spaces in the beehive.
 ##### Uses
 - Have anti-inflammatory properties that help wound healing and protect the body from bacteria and viruses.
-- Also has benefits against gastrointestinal, oral and dermatological problems.
+- Also has benefits against gastrointestinal disorders, oral and dermatological problems.
 
 ### Pollen
 A great natural source of nutrients including proteins, amino acids, carbohydrates, vitamins and minerals.
@@ -58,7 +58,7 @@ A great natural source of nutrients including proteins, amino acids, carbohydrat
 Contains nutrients with anti-inflammatory and antioxidant effects.
 ##### Uses
 - Reduce symptoms of menopause.
-- Reduce premenstrual syndrome( PMS ), dry eye and others.
+- Reduce premenstrual syndrome (PMS), dry eye and others.
 - Beneficial when applied directly to skin and hair and reduces inflammation.
 - Products are very expensive due to the painstaking and delicate process of harvesting it by hand.
 
@@ -66,7 +66,7 @@ Contains nutrients with anti-inflammatory and antioxidant effects.
 Not toxic but causes local pain and swelling.
 The swelling is due to the allergic reaction that comes when the immune system is oversensitized to the venom and produces antibodies to it.
 ##### Benefits
-- Anti Inflammatory and reduces redness.
+- Anti inflammatory properties and reduces redness.
 - Benefits to skin health.
 - Treat symptoms related to some health conditions such as rheumatoid arthritis and chronic pain.
 - Very expensive: about 4000/= per gram.
