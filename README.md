@@ -1,3 +1,6 @@
+[BEE HIVES](https://adsfarm.github.io/beehives/)
+[BEE PRODUCTS](https://adsfarm.github.io/beeproducts/)
+
 ## BEE PRODUCTS
 - Honey.
 - Beeswax.
